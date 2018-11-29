@@ -4,9 +4,11 @@ Computer Networks
 
 
 
---- Running the Program / Sample Run ---
+--- Running the Program ---
 
-This chatroom requires that you use the credentials.txt file which will hold all user name and passwords in this doc. This chatroom is built by using the language Python so it's recommended you use terminal or the like. 
+This chatroom requires that you use the credentials.txt file which will hold all user name and passwords in this doc. 
+
+This chatroom is built by using the language Python so it's recommended you use terminal or the like. 
 
 With this set up, you can run the program as such:
 
